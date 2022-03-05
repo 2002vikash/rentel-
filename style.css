@@ -1,0 +1,57 @@
+
+
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+.backgroundProperty{
+    background-color: cadetblue;
+    
+
+}
+
+.backGround2{
+    background-color: cadetblue;
+}
+.backGround{
+    background-color: cadetblue;
+    margin-left: 250px;
+
+}
+
+.header{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    border-bottom: 10px solid black;
+    overflow: hidden;
+    background-color: blue;
+    top: 0;
+    width: 99%;  
+}
+
+.header1{
+    display: flex;
+    justify-content:space-between;
+}
+
+.formProperty{
+    background-color: antiquewhite;
+    margin: 50px 450px 0px 450px;
+    padding: 20px 50px 50px 40px;
+
+}
+
+.submit{
+    width: 180px;
+    background-color: blue; 
+    color: aliceblue;
+}
+
+.container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
